@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: dbf22164db98a714c8b39cd915f93030
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base
+    100002: corbelDecor
+    100004: corbels
+    100006: corbelTrim
+    100008: firstFloorStairs_uvd
+    100010: fourthFloor
+    100012: fourthFloorStairs
+    100014: glassForLight
+    100016: keepersWorkroom
+    100018: LightHousing
+    100020: lowerRailing
+    100022: lowerTowerWindow
+    100024: second_floor_stairs
+    100026: secondFloor
+    100028: secondFloor1
+    100030: third_floor_stairs
+    100032: thirdFloorWindows
+    100034: tower
+    100036: //RootNode
+    100038: upperRailing
+    400000: base
+    400002: corbelDecor
+    400004: corbels
+    400006: corbelTrim
+    400008: firstFloorStairs_uvd
+    400010: fourthFloor
+    400012: fourthFloorStairs
+    400014: glassForLight
+    400016: keepersWorkroom
+    400018: LightHousing
+    400020: lowerRailing
+    400022: lowerTowerWindow
+    400024: second_floor_stairs
+    400026: secondFloor
+    400028: secondFloor1
+    400030: third_floor_stairs
+    400032: thirdFloorWindows
+    400034: tower
+    400036: //RootNode
+    400038: upperRailing
+    2100000: lambert1
+    2100002: lambert12
+    2300000: base
+    2300002: corbelDecor
+    2300004: corbels
+    2300006: corbelTrim
+    2300008: firstFloorStairs_uvd
+    2300010: fourthFloor
+    2300012: fourthFloorStairs
+    2300014: glassForLight
+    2300016: keepersWorkroom
+    2300018: LightHousing
+    2300020: lowerRailing
+    2300022: lowerTowerWindow
+    2300024: second_floor_stairs
+    2300026: secondFloor
+    2300028: secondFloor1
+    2300030: third_floor_stairs
+    2300032: thirdFloorWindows
+    2300034: tower
+    2300036: upperRailing
+    3300000: base
+    3300002: corbelDecor
+    3300004: corbels
+    3300006: corbelTrim
+    3300008: firstFloorStairs_uvd
+    3300010: fourthFloor
+    3300012: fourthFloorStairs
+    3300014: glassForLight
+    3300016: keepersWorkroom
+    3300018: LightHousing
+    3300020: lowerRailing
+    3300022: lowerTowerWindow
+    3300024: second_floor_stairs
+    3300026: secondFloor
+    3300028: secondFloor1
+    3300030: third_floor_stairs
+    3300032: thirdFloorWindows
+    3300034: tower
+    3300036: upperRailing
+    4300000: base
+    4300002: LightHousing
+    4300004: glassForLight
+    4300006: tower
+    4300008: keepersWorkroom
+    4300010: fourthFloorStairs
+    4300012: second_floor_stairs
+    4300014: firstFloorStairs_uvd
+    4300016: third_floor_stairs
+    4300018: lowerRailing
+    4300020: thirdFloorWindows
+    4300022: corbelTrim
+    4300024: upperRailing
+    4300026: corbels
+    4300028: fourthFloor
+    4300030: lowerTowerWindow
+    4300032: secondFloor1
+    4300034: secondFloor
+    4300036: corbelDecor
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

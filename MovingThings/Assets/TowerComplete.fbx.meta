@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 247f7e87ed3fa494ab94dee761036661
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base_01
+    100002: firstFloorStairs
+    100004: firstFloorWindows
+    100006: fourthFloor
+    100008: fourthFloorStairs
+    100010: keepersCorbels
+    100012: keepersRailing
+    100014: keepersRailing_02
+    100016: keepersThirdStairs
+    100018: keepersTower
+    100020: keepersWorkroom
+    100022: secondFloor
+    100024: secondFloorStairs
+    100026: thirdFloor
+    100028: //RootNode
+    100030: towerTrim
+    100032: upperWindows
+    400000: base_01
+    400002: firstFloorStairs
+    400004: firstFloorWindows
+    400006: fourthFloor
+    400008: fourthFloorStairs
+    400010: keepersCorbels
+    400012: keepersRailing
+    400014: keepersRailing_02
+    400016: keepersThirdStairs
+    400018: keepersTower
+    400020: keepersWorkroom
+    400022: secondFloor
+    400024: secondFloorStairs
+    400026: thirdFloor
+    400028: //RootNode
+    400030: towerTrim
+    400032: upperWindows
+    2100000: sampleTower_02_sampleTower_tempGlass
+    2100002: lambert1
+    2100004: lambert6
+    2300000: base_01
+    2300002: firstFloorStairs
+    2300004: firstFloorWindows
+    2300006: fourthFloor
+    2300008: fourthFloorStairs
+    2300010: keepersCorbels
+    2300012: keepersRailing
+    2300014: keepersRailing_02
+    2300016: keepersThirdStairs
+    2300018: keepersTower
+    2300020: keepersWorkroom
+    2300022: secondFloor
+    2300024: secondFloorStairs
+    2300026: thirdFloor
+    2300028: towerTrim
+    2300030: upperWindows
+    3300000: base_01
+    3300002: firstFloorStairs
+    3300004: firstFloorWindows
+    3300006: fourthFloor
+    3300008: fourthFloorStairs
+    3300010: keepersCorbels
+    3300012: keepersRailing
+    3300014: keepersRailing_02
+    3300016: keepersThirdStairs
+    3300018: keepersTower
+    3300020: keepersWorkroom
+    3300022: secondFloor
+    3300024: secondFloorStairs
+    3300026: thirdFloor
+    3300028: towerTrim
+    3300030: upperWindows
+    4300000: base_01
+    4300002: keepersWorkroom
+    4300004: fourthFloorStairs
+    4300006: thirdFloor
+    4300008: secondFloorStairs
+    4300010: secondFloor
+    4300012: keepersRailing_02
+    4300014: keepersThirdStairs
+    4300016: keepersCorbels
+    4300018: fourthFloor
+    4300020: upperWindows
+    4300022: towerTrim
+    4300024: firstFloorStairs
+    4300026: firstFloorWindows
+    4300028: keepersTower
+    4300030: keepersRailing
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

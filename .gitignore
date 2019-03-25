@@ -35,3 +35,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+MovingThings/Assets/Materials/tower_UVS_U1_V7.tif.meta
+*.tif
+MovingThings/App/MovingThings/Data/sharedassets0.assets.resS
+MovingThings/App/MovingThings/bin/x86/Release/AppX/Data/sharedassets0.assets
+MovingThings/App/MovingThings/bin/x86/Release/AppX/Data/sharedassets0.assets.resS
